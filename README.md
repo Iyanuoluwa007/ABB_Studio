@@ -1,6 +1,6 @@
 # ABB RobotStudio Drawing Project
 
-This project demonstrates a simulated ABB robot programmed using RAPID in ABB RobotStudio to draw various shapes and text—including names and words—using precise robotic motion paths.
+This project demonstrates a simulated ABB robot programmed using RAPID in ABB RobotStudio to draw various shapes and text including names and words using precise robotic motion paths.
 
 ## 📁 Project Files
 
@@ -44,7 +44,3 @@ Each drawing is composed of predefined `robtarget` positions using `MoveJ`, `Mov
 ## 🧑‍💻 Author
 
 Oke Iyanuoluwa E.
-
-## 🔖 License
-
-MIT (or specify a different license if needed)
